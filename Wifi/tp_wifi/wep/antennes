@@ -1,0 +1,10 @@
+ Dans la doc : 2T3R
+ 
+ = > 2 antennes de transmissions
+ = > 3 de reception
+ 
+ ---------------
+ 2 flux minimum _ le mini des antennes 
+ 
+ 20 mhz _ MCS de 0 à 15 > débits max en 400 ns = > 144.40 debits
+ 40 mhz _ MCS de 0 à 15 > débits max en 400 ns = > 300 debits
